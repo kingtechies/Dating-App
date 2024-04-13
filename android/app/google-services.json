@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "768478729301",
+    "project_id": "twitchmat",
+    "storage_bucket": "twitchmat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768478729301:android:6716af6c566889078b30dc",
+        "android_client_info": {
+          "package_name": "com.company.appname"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768478729301-3uts7igoko1vg4udfv68s2chis4u8rf4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjtH85517gKUFG9G59sMxaNsr3fmySCDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768478729301-3uts7igoko1vg4udfv68s2chis4u8rf4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
